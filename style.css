@@ -1,0 +1,21 @@
+.wrapper {
+  min-height: 100vh;
+}
+
+body {
+  background: rgb(225, 180, 95);
+}
+
+.fa-solid,
+.fa-regular {
+  padding: 0.5rem;
+  background: rgb(225, 180, 95);
+  border-radius: 50%;
+  color: aliceblue;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  gap: 0.5px;
+}
